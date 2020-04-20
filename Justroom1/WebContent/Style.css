@@ -1,0 +1,60 @@
+@CHARSET "ISO-8859-1";
+body{
+	background-image: url('anir.jpg');
+	background-repeat: no-repeat;
+	height: 100%;
+	background-size: cover;
+	opacity: 0.9;
+}
+.heading{
+	position: absolute;
+	left: 200px;
+	top: 200px;
+	font-style: italic;
+	font-size: 70px;
+	font-weight: bold;
+	color: brown;
+}
+.admin{
+	position: absolute;
+	top: 300px;
+	left: 300px;
+	font-style: italic;
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+	
+}
+h3{
+  font-family: Calibri; 
+  font-size: 25pt;         
+  font-style: normal; 
+  font-weight: bold; 
+  color:black;
+  text-align: center; 
+  text-decoration: underline
+}
+
+table{
+  font-family: Calibri; 
+  color:white; 
+  font-size: 11pt; 
+  font-style: normal;
+  font-weight: bold;
+  text-align:; 
+  background-color: honeysucle; 
+  border-collapse: collapse; 
+  border: 
+}
+table.inner{
+  border: 0px
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h3 {
+  text-align: center;
+}
